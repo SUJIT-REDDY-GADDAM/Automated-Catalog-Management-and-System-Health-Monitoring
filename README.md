@@ -1,7 +1,9 @@
 # Automated-Catalog-Management-and-System-Health-Monitoring
 
 •	Engineered a Python-based solution for automating catalog updates, PDF generation, and email distribution, significantly enhancing operational workflows.
+
 •	Created a system health monitoring script that proactively checks and reports system metrics, ensuring high availability and reliability.
+
 •	Leveraged Python libraries such as ‘smtplib’ for email automation, ‘reportlab’ for PDF creation, and ‘psutil’ for system diagnostics, integrating these tools into a seamless automation process.
 
 # 1. Catalog Updates:
